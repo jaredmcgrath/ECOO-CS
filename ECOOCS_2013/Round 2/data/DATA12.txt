@@ -1,0 +1,65 @@
+|        |
+|        |
+|        |
+|        |
+|        |
+|        |
+|        |
+|        |
+|O OO  OO|
+| O O   O|
+|========|
+|        |
+|        |
+|        |
+|        |
+|        |
+|        |
+|        |
+|        |
+|OOOOO OO|
+|OO OOOOO|
+|OOO  OOO|
+|OOO OOOO|
+|OOOO OOO|
+|O OOO  O|
+|OOOO O O|
+|OOO  O O|
+|OOO OO O|
+|OOOOOO  |
+|OO  OOOO|
+|OOOOOOO |
+|========|
+|                   |
+|                   |
+|                   |
+|                   |
+|                   |
+|       OOO  OO O   |
+|     O OO     O    |
+|===================|
+|              |
+|              |
+|              |
+|              |
+|              |
+|              |
+|              |
+| O      OO  O |
+| O O OO       |
+| OO  O    OO O|
+|    O OO  OO  |
+|OO  O      OOO|
+| O  O    O O  |
+|        O O O |
+| O OOOO  O  O |
+|         O    |
+|==============|
+|                  |
+|                  |
+|      O           |
+|     O            |
+|            O     |
+|   O  O           |
+|O         O     O |
+|==================|
